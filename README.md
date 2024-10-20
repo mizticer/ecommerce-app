@@ -72,6 +72,6 @@ The application’s infrastructure, including all services and dependencies such
 - **OpenFeign** and **RestTemplate** for synchronous communication
 - **Zipkin** and **Spring Boot Actuator** for distributed tracing
 - **Liquibase** for database migrations
-- **PostgreSQL for data storage
+- **PostgreSQL** for data storage
 - **MongoDB** for data storage
 - **Docker** and **Docker Compose** for containerization and orchestration
